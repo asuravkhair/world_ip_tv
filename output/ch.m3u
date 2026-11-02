@@ -47,14 +47,10 @@ https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60d
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="Switzerland",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6ijbSTr.png" group-title="Switzerland",Leman Bleu (1080p)
-http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13PjEk8.png" group-title="Switzerland",Max TV (1080p)
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Switzerland",Meteonews (1080p)
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Switzerland",More Than Sports TV (1080p)
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Switzerland",My Cinema Europe
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/960px-N-tv_logo-september2017.svg.png" group-title="Switzerland",n-tv

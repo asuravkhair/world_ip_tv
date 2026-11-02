@@ -11,6 +11,8 @@ https://live.apostoltv.hu/live/playlist.m3u8
 http://88.212.7.14/live/arena4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Hungary",AXN Black (United States) Hungary (576p)
 http://141.94.193.53:80/axn_black/index.m3u8
+#EXTINF:-1 tvg-logo="https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png" group-title="Hungary",Balaton TV (432p)
+https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CqqWtzo.png" group-title="Hungary",Budapest Europa Televizio (576p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u0AKhzj.png" group-title="Hungary",City TV (Hungary)
