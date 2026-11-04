@@ -7,6 +7,8 @@ https://shift03.isp.bg/BNT1_HD/index.m3u8
 https://shift03.isp.bg/BNT3_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lw8b3yu.png" group-title="Bulgaria",BNT 4 (1080p)
 https://shift03.isp.bg/BNT4_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l47z7gw.png" group-title="Bulgaria",bTV (576p)
+http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mFL452f.png" group-title="Bulgaria",City TV (Bulgaria) (576p) [Not 24/7]
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Bulgaria",DSTV (Bulgaria) (614p) [Not 24/7]
