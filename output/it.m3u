@@ -35,6 +35,8 @@ https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SRFzjja.png" group-title="Italy",CafeTV24 (720p)
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noTgJJp.png" group-title="Italy",Calabria TV (1080p)
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hv4zi9N.png" group-title="Italy",Camera dei Deputati (240p)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7XXdN5T.png" group-title="Italy",Canale 2 Altamura (576p) [Not 24/7]
