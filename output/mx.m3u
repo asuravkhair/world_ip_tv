@@ -99,8 +99,6 @@ http://168.196.127.137:6001/play/a070/index.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="Mexico",Monte Maria (1080p)
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Mexico",MTV Latin America (1080p)
-http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="Mexico",MultiPremier (1080p)
 http://168.196.127.137:6001/play/a08n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Mexico",MyTime Movie Network (Mexico) (720p)
@@ -125,6 +123,8 @@ https://srspsn2.live/live/livestream.m3u8
 http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="Mexico",RCG TV (1080p)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="Mexico",RTQ Queretaro (1080p)
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="Mexico",SICOM Television XHPBZC-TDT (720p) [Not 24/7]
 https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/123P7dV.png" group-title="Mexico",SIPSE TV 8.1 (1080p) [Not 24/7]
@@ -183,8 +183,6 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Mexico",Vision Television (720p)
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="Mexico",Warner Channel Mexico (1080p) [Geo-blocked]
-http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Mexico",WeatherSpy (Mexico) (720p)
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R3icGuG.png" group-title="Mexico",XHBZC-TDT (1080p) [Not 24/7]
@@ -199,5 +197,3 @@ https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="Mexico",XHUNES-TDT (720p)
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RxhABeK.png" group-title="Mexico",XHZHZ-TDT (720p)
-https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
