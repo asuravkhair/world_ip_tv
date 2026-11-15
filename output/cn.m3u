@@ -59,8 +59,6 @@ https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="China",QTV-2
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" group-title="China",QTV-5
-http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="China",Siping TV
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-logo="https://i.imgur.com/896132Z.png" group-title="China",TV BRICS Chinese (1080p)
@@ -73,6 +71,8 @@ http://110.153.180.106:55555/out_3/index.m3u8
 http://110.153.180.106:55555/out_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJw1Ndc.png" group-title="China",Xinjiang TV 8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V0v3ST5.png" group-title="China",Xizang TV Chinese
+https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NtvfnVV.png" group-title="China",Xizang TV Tibetan
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ycsxggpd.jpg" group-title="China",Yichang Sanxia General Channel

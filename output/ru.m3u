@@ -49,8 +49,6 @@ http://stream.mcquack.net/78/index.m3u8
 http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="Russia",Balabol (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EEirvyx.png" group-title="Russia",Belgorod 24 (1080p)
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Russia",Big Asia (720p)
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcOi4Os.png" group-title="Russia",Blokbaster HD (1080p)
@@ -81,8 +79,6 @@ https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=20
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="Russia",Channel-16 (406p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="Russia",Che! (576p)
-http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="Russia",City Eden AutoGid [Not 24/7]
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="Russia",City Eden Birma Play [Not 24/7]
@@ -259,8 +255,6 @@ https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9qJkxV9.png" group-title="Russia",Live Music Channel HD (1080p)
 http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Russia",Lugansk 24
-https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r485aZL.png" group-title="Russia",Magnat (1080p)
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C8CCjZK.png" group-title="Russia",Maidan (720p)
@@ -357,6 +351,8 @@ https://cdn.ntv.ru/ntv7/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="Russia",NTV Series (576p)
 http://stream.mcquack.net/301/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qGCnptpQ9slUAoZ7e5y1Dk4TtjJ.png" group-title="Russia",NTV Sledstviye veli (1080p) [Geo-blocked]
+https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="Russia",NTV Style (576p)
 https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png" group-title="Russia",NTV Vitrina (720p)
@@ -395,8 +391,6 @@ http://31.148.5.241/kanal_9/index.m3u8
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" group-title="Russia",Perviy otdel (1080p)
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti4OMBv.png" group-title="Russia",Pervyy Respublikanskiy
-https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg" group-title="Russia",Pes (1080p)
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ck4aLBP.png" group-title="Russia",Premialnoe HD (1080p)
@@ -535,8 +529,6 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 http://178.134.1.158:8081/t24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Russia",Tamyr (576p)
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gqung6i.png" group-title="Russia",Tavriya
-https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/071JRrb.png" group-title="Russia",TeleDom
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YVtutzp.png" group-title="Russia",Telekanal Krasnodar (1080p)
@@ -653,8 +645,6 @@ https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IcWtXCZ.png" group-title="Russia",Yuvelirochka (576p)
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVPTl8J.png" group-title="Russia",Za! TV
-https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RoYd5pz.png" group-title="Russia",Zagorodnaya Zhizn (576p)
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jedtE5l.png" group-title="Russia",Zdorovoe TV (576p)
