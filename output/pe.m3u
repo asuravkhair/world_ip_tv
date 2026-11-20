@@ -19,11 +19,11 @@ https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Peru",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV (Peru) (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png" group-title="Peru",ATV (Peru) (1080p)
 http://190.93.224.42/ATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Peru",ATV Sur (1080p)
 http://190.93.224.42/ATV-SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+ (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Peru",ATV+ (1080p)
 http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Peru",Autentica Television (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -57,6 +57,8 @@ https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42aE0nm.jpeg" group-title="Peru",Casma TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tFRmMkf.png" group-title="Peru",Charapa TV (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png" group-title="Peru",Chikitoonz (1080p)
 http://45.70.201.81:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Peru",Cinecanal Pacific (1080p)
@@ -69,8 +71,6 @@ https://live.obslivestream.com/conecta2/index.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Peru",CR Television (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0LxXsx.png" group-title="Peru",Cultura 24 (720p)
-https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QF5VUcy.png" group-title="Peru",CVN TV
 https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g4pZ3ZW.jpeg" group-title="Peru",Dac TV (720p)
@@ -135,8 +135,12 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
 https://www.milenial.news/salida/milenial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Peru",Millenium 109 FM
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Peru",Monterrico TV
+https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Peru",MTV Latin America (1080p)
 http://15.204.246.24:8080/MTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="Peru",Nativa (720p)
+http://187.102.210.46/NATIVATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="Peru",Nativa TV Satipo (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Peru",Nick Jr. Latin America (1080p)
@@ -145,11 +149,15 @@ https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 https://eu1.servers10.com:8081/8258/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Peru",ONDA DIGITAL (720p)
 https://tv.ondadigital.pe/ondadigital/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gbjdiLW.jpeg" group-title="Peru",Onda TV (Peru) (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Peru",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Peru",Pakapaka (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wkdibpv.png" group-title="Peru",Ozono TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paka-Paka-2025.svg/1920px-Paka-Paka-2025.svg.png" group-title="Peru",Pakapaka (1080p)
 http://138.59.227.20:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana TV (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/1280px-Logo_Panamericana_2020.png" group-title="Peru",Panamericana TV (1080p)
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Peru",PBO (1080p)
 http://190.93.224.42/PBO/index.m3u8
@@ -165,14 +173,10 @@ https://mc.servidor.stream:19360/8244/8244.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWJauwQ.png" group-title="Peru",Qosqo Times (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AUoxyzP.png" group-title="Peru",Radio Master (720p)
-https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lid5RTv.png" group-title="Peru",Radio Onda Digital (1080p)
 https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYcxI03.png" group-title="Peru",Radio Rumba TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Peru",Radio Tropical (480p) [Not 24/7]
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="Peru",RadioTV Oriente (720p)
 https://live.obslivestream.com/tvoriente/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KECyh5.jpeg" group-title="Peru",Real Television (720p)
@@ -181,7 +185,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Peru",RN Television (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Peru",RPP TV (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Peru",RPP TV (1080p)
 http://190.93.224.42/RPP/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAK5ZnD.png" group-title="Peru",RSelvaTV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
@@ -225,7 +229,7 @@ http://38.134.250.110:8000/play/a00n/index.m3u8
 http://190.61.42.218:9000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Peru",Top Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="Peru",Top TV (Peru) (240p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="Peru",Top TV (240p) [Not 24/7]
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="Peru",Trivu (1080p)
 http://190.93.224.42/TRIVU-TV/index.m3u8
@@ -233,6 +237,8 @@ http://190.93.224.42/TRIVU-TV/index.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Peru",TV Bella Asuncion
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="Peru",TV Cosmos (720p)
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JFBpDJ1.jpeg" group-title="Peru",TV MAX (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fg6m2L.png" group-title="Peru",TV Norte Chiclayo (720p)

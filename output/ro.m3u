@@ -27,8 +27,6 @@ https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145" group-title="Romania",AntenaPlay Events (576p) [Not 24/7]
 https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg" group-title="Romania",AntenaSport
-https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qufz6nk.png" group-title="Romania",Arges TV (720p)
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/AS_TV_2025.png/revision/latest?cb=20250412121320" group-title="Romania",AS TV (Romania) (576p)
@@ -43,8 +41,6 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVsocid.png" group-title="Romania",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Bihortvlogo.png/revision/latest/scale-to-width-down/1000?cb=20241223065621" group-title="Romania",Bihor TV (576p)
-https://bihor-tv.ro/hls/bihortv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Romania",Bollywood Classic Romania (576p)
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="Romania",Bucovina TV (576i)
@@ -99,8 +95,6 @@ https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="Romania",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="Romania",Hunedoara 1 (480p) [Not 24/7]
-https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL2-8r1l1NDdmA6jkZYvHxPFrsIA7a8m-XdSpwC6Z&s=10" group-title="Romania",Impact TV 2 (1080p)
 https://online.tvimpact.live/hls/impact_tv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Romania",Impact TV Dance (1080p)
@@ -125,8 +119,6 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="Romania",JOB TV (1080p)
 https://jobtvserver.eu/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Romania",Kanal D2 (1080i)
-https://stream2.kanald.ro/iphone/knd2-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="Romania",Kanal D (Romania) (480p)
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q1PYwkZ.png" group-title="Romania",Kapital TV (576i)
@@ -195,6 +187,10 @@ https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
 https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 #EXTINF:-1 tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" group-title="Romania",Radio Romania Oltenia-Craiova (576p) [Not 24/7]
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" group-title="Romania",Radio Romania Targu Mures (576p)
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-logo="https://radiozu.ro/img/logo-zu.png" group-title="Romania",Radio ZU (720p)
+https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mwMG7BB.png" group-title="Romania",Rapsodia TV
 http://hls02ns.antenaplay.ro/hls/rapsoida-tv-sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqEPVPk.png" group-title="Romania",Realitatea Plus (720p)
@@ -219,6 +215,8 @@ https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/SkyShowtime_1.svg/revision/latest?cb=20220920074626" group-title="Romania",SkyShowtime 1
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi1%2Fusergendxn430rnd-got.htm
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/SkyShowtime_2.svg/revision/latest?cb=20220920074646" group-title="Romania",SkyShowtime 2
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fusergendxj85trnd-got.htm
 #EXTINF:-1 tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png" group-title="Romania",Smart Radio (576p)
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sptfm.ro/wp-content/uploads/2021/05/logo-sport-total-fm-01.png" group-title="Romania",Sport Total FM (576i)
@@ -255,7 +253,7 @@ https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
 https://netstreaming.eu/tv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4yZV72X.png" group-title="Romania",TV Arad (576i)
 https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631" group-title="Romania",TV AS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631" group-title="Romania",TV AS (Romania)
 https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="Romania",TVPlus Suceava (576p)
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8

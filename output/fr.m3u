@@ -47,8 +47,6 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="France",CNews (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:-1 tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" group-title="France",CNEWS PRIME (1080p)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="France",Comedy Central (France) (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="France",Comedy Central (France) HD (720p)
@@ -87,8 +85,6 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlis
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="France",France 5 (1080p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="France",France 24 (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="France",Franceinfo (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="France",Frequence Novelas (1080p)
@@ -103,8 +99,6 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hxuJXll.png" group-title="France",Histoire TV (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="France",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" group-title="France",Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="France",Kozoom TV (1080p)
@@ -127,8 +121,6 @@ http://176.65.153.78:8201/play/a070/index.m3u8
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="France",Melody (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="France",Mezzo Live (1080p)
-http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="France",Motorvision+ (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="France",Mr Bean Animated FR (1080p)
@@ -143,7 +135,7 @@ https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="France",Nickelodeon Junior (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OWRUPA4.png" group-title="France",Nicktoons (France) (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" group-title="France",Nicktoons (France) (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" group-title="France",NOVO19 (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8

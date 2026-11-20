@@ -47,6 +47,8 @@ http://181.78.211.244:8005/play/a08q/index.m3u8
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Ecuador",FX Latin America (1080p)
 http://15.204.246.24:8080/FXHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vlZA6O.png" group-title="Ecuador",Gaviota TV [Not 24/7]
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="Ecuador",Hechos Ecuador (1080p) [Not 24/7]
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Ecuador",History Latin America (1080p)
@@ -113,6 +115,8 @@ https://play.once.net.ec/telerama/live.tv/538.m3u8
 http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="Ecuador",TV Color Canal 36 (720p)
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Y6Lp5l.png" group-title="Ecuador",TV Legislativa (1080p) [Not 24/7]
+https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Ecuador",TV Universal Ecuador (720p)
 https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d02qUU.jpeg" group-title="Ecuador",TvOro (1080p)
