@@ -197,8 +197,6 @@ https://iptv.peer.biz/live/peertv.m3u8
 http://102.129.186.182:81/pescacaccia/index.m3u8
 #EXTINF:-1 tvg-logo="https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg" group-title="Italy",Prima Free (720p)
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HE9c8Sk.png" group-title="Italy",Prima TV (Italy) (720p)
-https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eunZ2Sa.png" group-title="Italy",Primocanale (1080p) [Not 24/7]
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XfNSWp0.png" group-title="Italy",Quarto Canale Flegreo (720p)
@@ -295,6 +293,8 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/p
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/75qUdR7.png" group-title="Italy",RTL 102.5 TV (1080p)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9Twxsi.png" group-title="Italy",RTM TV (1080p)
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="Italy",RTP (Italy) (404p)
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6DyzN8M.png" group-title="Italy",RTTR Trento (720p)

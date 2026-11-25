@@ -15,6 +15,8 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1638_ADA_TV.png" group-title="Chile",ADA TV (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="Chile",ADN TV (720p)
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxrYc3Q.png" group-title="Chile",Agricultura TV (1080p)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfi9NXL.png" group-title="Chile",AM Canal
@@ -111,6 +113,8 @@ https://v1.tustreaming.cl/emociontv/index.m3u8
 https://v2.tustreaming.cl/enlineamauletv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GaJzjt5.png" group-title="Chile",Enfoque Digital TV (1080p)
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1649_EPA__TV.png" group-title="Chile",EPA! TV (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAADx7P.png" group-title="Chile",Estacion Limache TV (720p)
 https://v4.tustreaming.cl/limachemovil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eICyrPP.png" group-title="Chile",Estacion TV (720p)
@@ -137,8 +141,6 @@ https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YGLbCeC.png" group-title="Chile",Islita TV (1080p)
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://rhk91h.infiniteuploads.cloud/2025/08/Logo-ITV-Patagonia.jpg" group-title="Chile",ITV Patagonia (720p)
-https://redirector.dps.live/hls/itv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHJkxaB.png" group-title="Chile",La Chilena TV
 https://vdochile.com:3134/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png" group-title="Chile",La Clave (720p)
@@ -157,6 +159,8 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="Chile",La Red (720p)
 https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Chile",Lifetime Latin America (1080p)
+http://138.121.15.230:9002/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/widaSu3.png" group-title="Chile",Lila TV Pencahue (720p)
 https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YinMA8c.png" group-title="Chile",Maray TV (1080p)
@@ -197,8 +201,6 @@ https://v2.tustreaming.cl/odiseatv/index.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ELjva6.png" group-title="Chile",Osorno TV (1080p)
 https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1803_PalMundo_FM.png" group-title="Chile",PalMundo FM (1080p)
-https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFuWBZO.png" group-title="Chile",Patagonia Radio TV (720p)
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UAKLJAt.png" group-title="Chile",Pauta (1080p)
@@ -351,6 +353,8 @@ https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Chile",UTV (Chile) (720p)
 https://v2.tustreaming.cl/utv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zdv4IF8.png" group-title="Chile",Verso TV
+https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png" group-title="Chile",Via X (576p)
 http://45.170.130.224:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="Chile",VTV Valle de Aconcagua (720p) [Not 24/7]
