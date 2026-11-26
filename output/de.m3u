@@ -103,6 +103,8 @@ https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Germany",KulturMD (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" group-title="Germany",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kYF4bK.png" group-title="Germany",Lausitzwelle (1080p)
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0OmBlfE.png" group-title="Germany",Light Channel (Germany) (576p) [Not 24/7]
@@ -307,8 +309,6 @@ https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Germany",World of Freesports (1080p)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Germany",XITE Hits Germany (1080p)
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rTBX6lS.png" group-title="Germany",YOL TV (720p)
 https://live.yoltv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Germany",ZDF
