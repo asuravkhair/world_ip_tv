@@ -53,8 +53,6 @@ https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOYF8NA.png" group-title="Florida",Scientology Network WFTT-TV (1080p)
 https://stream-tampa.scientology.org/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fl8I3cg.png" group-title="Florida",SPTV (360p)
-https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="Florida",Univision WLTV-DT (720p)
 http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMUBDzY.jpg" group-title="Florida",WCOT (720p)
